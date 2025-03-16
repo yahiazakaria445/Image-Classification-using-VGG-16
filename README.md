@@ -62,5 +62,6 @@ This is a very simple function of callback that can be used to tweak the learnin
   ![image](https://github.com/user-attachments/assets/fecd302f-abe2-4b09-83a3-ca6852b5c17b)
 
 - __Classification report__
+  
   ![image](https://github.com/user-attachments/assets/ea6936d2-9a52-4494-8485-40b2291bc076)
 
